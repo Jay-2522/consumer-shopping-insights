@@ -1,5 +1,5 @@
 
-# ✨ **Consumer Shopping Insights**
+# • **Consumer Shopping Insights**
 
 *because numbers tell stories — and we make them aesthetic.*
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌸 **Overview**
+## • **Overview**
 
 This project explores **consumer shopping behavior** in a clean, visual, and insight-driven way.
 Think of it as:
@@ -22,7 +22,7 @@ We turn raw data → meaningful patterns → aesthetic visualizations.
 
 ---
 
-## 📂 **Repository Structure**
+## • **Repository Structure**
 
 ```
 📁 consumer-shopping-insights
@@ -34,16 +34,16 @@ We turn raw data → meaningful patterns → aesthetic visualizations.
 
 ---
 
-## 🌿 **What This Project Includes**
+## • **What This Project Includes**
 
-### ✨ 1. Data Cleaning
+### • 1. Data Cleaning
 
 * Removing nulls
 * Formatting columns
 * Fixing inconsistencies
 * Making the dataset “analysis-ready”
 
-### ✨ 2. Aesthetic Visual EDA
+### • 2. Aesthetic Visual EDA
 
 Beautiful plots to explore:
 
@@ -53,7 +53,7 @@ Beautiful plots to explore:
 * Income vs spending
 * Customer frequency patterns
 
-### ✨ 3. Behavioral Insights
+### • 3. Behavioral Insights
 
 Some key questions we answer:
 
@@ -64,21 +64,21 @@ Some key questions we answer:
 
 ---
 
-## 🎨 **Sample Visuals**
+## • **Sample Visuals**
 
 *(These will appear when you run the notebook)*
 
-📈 Bar charts
-🔥 Heatmaps
-🧁 Pie charts
-💗 Histograms
-🌙 Trend lines
+• Bar charts
+• Heatmaps
+• Pie charts
+• Histograms
+• Trend lines
 
 All kept clean + pastel-ish depending on your style.
 
 ---
 
-## 🪄 **How to Use This Project**
+## • **How to Use This Project**
 
 1️⃣ Clone the repo
 
@@ -100,7 +100,7 @@ jupyter notebook Untitled4.ipynb
 
 ---
 
-## 🌙 **Future Enhancements**
+## • **Future Enhancements**
 
 * Customer segmentation (K-Means)
 * RFM analysis (Recency, Frequency, Monetary)
@@ -109,7 +109,7 @@ jupyter notebook Untitled4.ipynb
 
 ---
 
-## 💌 **Contribute**
+## • **Contribute**
 
 If you have ideas, feel free to open a PR or drop an issue.
 Sharing is caring <3
