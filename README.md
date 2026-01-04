@@ -1,7 +1,3 @@
-Alright babe, here’s a **super aesthetic, clean, Pinterest-core + data-science-core** README for your GitHub.
-Minimal, classy, and looks like a *"this girl knows her data"* profile.
-
----
 
 # ✨ **Consumer Shopping Insights**
 
